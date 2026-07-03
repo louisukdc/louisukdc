@@ -61,9 +61,10 @@ Saya adalah seorang **Web Developer** yang fokus membangun aplikasi web yang res
 
 Pencapaian dan aktivitas coding saya yang diperbarui secara otomatis:
 
-| Statistik Umum | Bahasa Pemrograman Terbanyak |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=louismax12&amp;show_icons=true&amp;theme=radical" alt="Statistik GitHub" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louismax12&amp;layout=compact&amp;theme=radical" alt="Bahasa Terbanyak" width="400"/> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=louismax12&show_icons=true&theme=radical" alt="Statistik GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louismax12&layout=compact&theme=radical" alt="Bahasa Terbanyak" width="400"/>
+</p>
 ---
 
 ### 🤝 Mari Terhubung!
