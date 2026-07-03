@@ -68,4 +68,4 @@ Pencapaian dan aktivitas coding saya yang diperbarui secara otomatis:
 
 ### 🤝 Mari Terhubung!
 [![Linkedin](https://img.shields.io/badge/Linkedin-@louismaximillian-E4405F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-maximillian-8889332ab/)
-[![Instagram](https://img.shields.io/badge/Instagram-@maximillianlouisaccount-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/maximillianlouisaccount)
+[![Instagram](https://img.shields.io/badge/Instagram-@maximillianlouiss-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/maximillianlouiss)
